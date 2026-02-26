@@ -58,4 +58,18 @@ class formaGeometrica{
                 return (this.#base/2) *( this.#altura/2) * Math.PI
         }
     }
+
+    
 }
+let forma1 = new formaGeometrica()
+let forma2 = new formaGeometrica() //criando objeto; 
+    forma1.altura = 7;
+    forma1.base = 12;
+    forma1.tipo = "T"
+
+    console.log(`Área de um triangulo de altura ${forma1.altura} e de base ${forma1.base} = ${forma1.calcArea()}`)
+    
+forma2.altura=12.3,
+forma2.base=7.5,
+forma2.tipo= "E"
+    console.log(`Área da elipse de altura ${forma2.altura} e de base ${forma2.base} = ${forma2.calcArea()}`)
