@@ -1,0 +1,5 @@
+fila é uma lista lenear de acesso restrito, que permite apenas as operações de enfileiramento(enqueue) e desenfilera-mento (dequeue), a primeira ocorrendo no final da estrutura a segunda inicio da estrutura.
+
+como sonsequencia, a fila funciona pelo principio FIFO - First In, First Out (primeiro a entrar, primeiro a sair).
+
+a principal aplicação das filas são situações que envolvem o processamento de tarefas por ordem de chegada.
