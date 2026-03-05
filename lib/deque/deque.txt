@@ -1,0 +1,10 @@
+deque é uma fila de duas pontas aonde só é tirado os usuarios ou os dados das pontas, a partir que é retirado do meio deixa de ser deque;
+
+deque = Double-Ended Queue (fila de duas pontas).
+
+permite apenas as oprações de enfileiraento ( insertFront/ insertBack ) e desifeleiramento (removeFront / removeBack), acontecendo em qualquuer 
+uma das extremidades da estrutura
+
+Como consequencia o deque não segue o principio FIFO - Firt in, First Out (Primeiro a entrar, primeiro a sair )
+
+a principal aplicação dos deques são situações em que filas precisam aceitar a inserção de itens prioritários e a desistencia do ultimo;
