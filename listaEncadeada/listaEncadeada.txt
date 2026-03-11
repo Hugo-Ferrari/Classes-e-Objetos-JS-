@@ -1,0 +1,8 @@
+é uma estrutura de dados formada por unidades de informação chamadas nodos ou nós .
+
+cada nodo da lista encadeada tem duas partes:
+    uma que armazena a informação e outra que guarda o endereço do proximo nodo da sequencia.
+
+a qualquer momento, temo um conhecimento apenas limitado de onde se encontram todos os nnodos da lista. Sabemos apenas onde esta o primeiro e o ultimo
+nodo da sequencia. Os nodos intermediarios precisam ser encontrados partindo-se primeiro e percorrendo a sequencia.
+

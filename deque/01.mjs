@@ -1,4 +1,4 @@
-import Deque from "../../Deque.mjs";
+import Deque from "../Deque.mjs";
 
 let listsComparas = new Deque
 console.log(listsComparas.print())
