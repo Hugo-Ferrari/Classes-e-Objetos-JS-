@@ -1,0 +1,1 @@
+Lista que pode começar a verificar os dados tanto pelo head tanto pelo tail;
